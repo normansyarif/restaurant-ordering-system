@@ -1,4 +1,6 @@
 # Restaurant Ordering System
+Take customers' order and send it to the kitchen via wireless network.
+
 > - Download .sql file [here](https://drive.google.com/open?id=1nmUW4CHcZ7tYq8KIxnVJfMvArfNMhFb-).
 > - Make sure to configure the database server first before signing in.
 > - The owner default user id: <b>dean</b>, password: <b>dean123</b>.
