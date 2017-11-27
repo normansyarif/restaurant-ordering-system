@@ -1,0 +1,30 @@
+E:\RestaurantOrderingSystem\ForOwner\bin\Debug\ForOwner.exe.config
+E:\RestaurantOrderingSystem\ForOwner\bin\Debug\ForOwner.exe
+E:\RestaurantOrderingSystem\ForOwner\bin\Debug\ForOwner.pdb
+E:\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.OwnerDefault.resources
+E:\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.Properties.Resources.resources
+E:\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.csproj.GenerateResource.Cache
+E:\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.exe
+E:\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.pdb
+E:\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.csprojResolveAssemblyReference.cache
+E:\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.Summary.resources
+E:\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.Menu.resources
+E:\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.OwnerSettings.resources
+E:\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.OwnerAbout.resources
+E:\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.Employee.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\bin\Debug\ForOwner.exe.config
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\bin\Debug\ForOwner.exe
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\bin\Debug\ForOwner.pdb
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.Employee.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.Menu.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.OwnerAbout.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.OwnerChart.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.OwnerDefault.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.OwnerLogin.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.OwnerSettings.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.Properties.Resources.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.Summary.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.csproj.GenerateResource.Cache
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.exe
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.pdb
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Debug\ForOwner.OwnerPassword.resources

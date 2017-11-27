@@ -1,0 +1,21 @@
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.exe.config
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.exe
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.pdb
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.Properties.Resources.resources
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\ForCashier.csproj.GenerateResource.Cache
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.exe
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.pdb
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.CashierDefault.resources
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.CashierSettings.resources
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\ForCashier.csprojResolveAssemblyReference.cache
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.exe.config
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.exe
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.pdb
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.CashierDefault.resources
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.CashierLogin.resources
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.CashierSettings.resources
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.Properties.Resources.resources
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\ForCashier.csproj.GenerateResource.Cache
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.exe
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.pdb
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.CashierPrint.resources

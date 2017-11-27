@@ -1,0 +1,9 @@
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.exe.config
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.exe
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.pdb
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.Form1.resources
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.Properties.Resources.resources
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.csproj.GenerateResource.Cache
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.exe
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.pdb
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.csprojResolveAssemblyReference.cache

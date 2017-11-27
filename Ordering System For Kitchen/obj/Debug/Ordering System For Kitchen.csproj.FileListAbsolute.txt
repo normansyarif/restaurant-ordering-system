@@ -1,0 +1,7 @@
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering_System_For_Kitchen.Properties.Resources.resources
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering System For Kitchen.csproj.GenerateResource.Cache
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\bin\Debug\Ordering System For Kitchen.exe.config
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\bin\Debug\Ordering System For Kitchen.exe
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\bin\Debug\Ordering System For Kitchen.pdb
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering System For Kitchen.exe
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering System For Kitchen.pdb

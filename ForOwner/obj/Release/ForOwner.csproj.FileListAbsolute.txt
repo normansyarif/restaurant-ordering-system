@@ -1,0 +1,21 @@
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ForOwner.Employee.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ForOwner.Menu.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ForOwner.OwnerAbout.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ForOwner.OwnerChart.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ForOwner.OwnerDefault.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ForOwner.OwnerLogin.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ForOwner.OwnerSettings.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ForOwner.Properties.Resources.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ForOwner.Summary.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ForOwner.csproj.GenerateResource.Cache
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ForOwner.OwnerPassword.resources
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\bin\Release\ROS for Owner.exe.config
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\bin\Release\ROS for Owner.exe.manifest
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\bin\Release\ROS for Owner.application
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\bin\Release\ROS for Owner.exe
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\bin\Release\ROS for Owner.pdb
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ROS for Owner.exe.manifest
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ROS for Owner.application
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ROS for Owner.exe
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ROS for Owner.pdb
+E:\Programming\Source code\RestaurantOrderingSystem\ForOwner\obj\Release\ForOwner.csprojResolveAssemblyReference.cache

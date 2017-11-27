@@ -1,0 +1,12 @@
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Release\RestaurantOrderingSystem.CashierDefault.resources
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Release\RestaurantOrderingSystem.CashierLogin.resources
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Release\RestaurantOrderingSystem.CashierSettings.resources
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Release\RestaurantOrderingSystem.Properties.Resources.resources
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Release\ForCashier.csproj.GenerateResource.Cache
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Release\RestaurantOrderingSystem.CashierPrint.resources
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Release\ROS for Cashier.exe.config
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Release\ROS for Cashier.exe
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Release\ROS for Cashier.pdb
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Release\ROS for Cashier.exe
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Release\ROS for Cashier.pdb
+E:\Programming\Source code\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Release\ForCashier.csprojResolveAssemblyReference.cache

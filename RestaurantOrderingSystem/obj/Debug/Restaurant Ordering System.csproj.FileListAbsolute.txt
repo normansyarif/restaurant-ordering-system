@@ -1,0 +1,20 @@
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.exe.config
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.exe
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.pdb
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.exe
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.pdb
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.FormDefault.resources
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.FormSettings.resources
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.Properties.Resources.resources
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\Restaurant Ordering System.csproj.GenerateResource.Cache
+e:\documents\visual studio 2013\Projects\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\Restaurant Ordering System.csprojResolveAssemblyReference.cache
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.exe.config
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.exe
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.pdb
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.exe
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\bin\Debug\RestaurantOrderingSystem.pdb
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\Restaurant Ordering System.csprojResolveAssemblyReference.cache
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.FormDefault.resources
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.FormSettings.resources
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\RestaurantOrderingSystem.Properties.Resources.resources
+E:\RestaurantOrderingSystem\RestaurantOrderingSystem\obj\Debug\Restaurant Ordering System.csproj.GenerateResource.Cache

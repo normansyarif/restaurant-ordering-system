@@ -1,0 +1,12 @@
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Release\Ordering_System_For_Kitchen.KitchenAbout.resources
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Release\Ordering_System_For_Kitchen.KitchenDefault.resources
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Release\Ordering_System_For_Kitchen.KitchenLogin.resources
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Release\Ordering_System_For_Kitchen.KitchenSettings.resources
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Release\Ordering_System_For_Kitchen.Properties.Resources.resources
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Release\ForKitchen.csproj.GenerateResource.Cache
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\bin\Release\ROS for Kitchen.exe.config
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\bin\Release\ROS for Kitchen.exe
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\bin\Release\ROS for Kitchen.pdb
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Release\ROS for Kitchen.exe
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Release\ROS for Kitchen.pdb
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Release\ForKitchen.csprojResolveAssemblyReference.cache

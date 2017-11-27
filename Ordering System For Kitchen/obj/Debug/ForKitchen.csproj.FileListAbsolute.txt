@@ -1,0 +1,22 @@
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\bin\Debug\Ordering System For Kitchen.exe.config
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\bin\Debug\Ordering System For Kitchen.exe
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\bin\Debug\Ordering System For Kitchen.pdb
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering_System_For_Kitchen.Properties.Resources.resources
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\ForKitchen.csproj.GenerateResource.Cache
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering System For Kitchen.exe
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering System For Kitchen.pdb
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering_System_For_Kitchen.KitchenAbout.resources
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering_System_For_Kitchen.KitchenDefault.resources
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\ForKitchen.csprojResolveAssemblyReference.cache
+E:\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering_System_For_Kitchen.KitchenSettings.resources
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\bin\Debug\Ordering System For Kitchen.exe.config
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\bin\Debug\Ordering System For Kitchen.exe
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\bin\Debug\Ordering System For Kitchen.pdb
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering_System_For_Kitchen.KitchenAbout.resources
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering_System_For_Kitchen.KitchenDefault.resources
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering_System_For_Kitchen.KitchenLogin.resources
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering_System_For_Kitchen.KitchenSettings.resources
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering_System_For_Kitchen.Properties.Resources.resources
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\ForKitchen.csproj.GenerateResource.Cache
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering System For Kitchen.exe
+E:\Programming\Source code\RestaurantOrderingSystem\Ordering System For Kitchen\obj\Debug\Ordering System For Kitchen.pdb
