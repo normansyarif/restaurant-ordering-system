@@ -1,5 +1,5 @@
 # Restaurant Ordering System
-Take customers' order and send it to the kitchen via wireless network.
+Take customer's order and send it to the kitchen via wireless network.
 
 > - Download .sql file [here](https://drive.google.com/open?id=1nmUW4CHcZ7tYq8KIxnVJfMvArfNMhFb-).
 > - Make sure to configure the database server first before signing in.
